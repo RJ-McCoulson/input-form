@@ -1,2 +1,2 @@
 # input-form
-imput form CSS week1
+input form CSS week1
